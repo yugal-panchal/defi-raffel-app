@@ -2,6 +2,7 @@ import 'package:defi_rafel_app/screens/home_screen.dart';
 import 'package:defi_rafel_app/screens/login_screen.dart';
 import 'package:defi_rafel_app/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
+import 'dart:js';
 
 void main() {
   runApp(const MyApp());
